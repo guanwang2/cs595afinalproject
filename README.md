@@ -1,6 +1,8 @@
 # cs595afinalproject
 ## Two modules need to be installed:
 ### tensorflow opencv
+## Required document
+### 0.jpg
 ## Reference:
 ### https://github.com/MorvanZhou/tutorials/tree/master/tensorflowTUT/tf14_tensorboard
 ### https://github.com/opencv/opencv/issues/8885
